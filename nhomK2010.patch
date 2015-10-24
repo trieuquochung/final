@@ -1,0 +1,10 @@
+commit aa44003bdea8d1e6e1af319580280a99ed3e17eb
+Author: Trieu Quoc Hung <hungtrieuce@gmail.com>
+Date:   Sat Oct 24 11:46:57 2015 +0700
+
+    Patch file ver1
+
+diff --git a/test_id b/test_id
+new file mode 100755
+index 0000000..57507bc
+Binary files /dev/null and b/test_id differ
